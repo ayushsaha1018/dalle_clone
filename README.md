@@ -1,4 +1,4 @@
-# dalle_clone || AI Image Generation App using MERN Stack
+# DalleArt || AI Image Generation App using MERN Stack
 
 #Website : https://dalle-clone-cyberninja.vercel.app/
 
